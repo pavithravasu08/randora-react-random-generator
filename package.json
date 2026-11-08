@@ -2,7 +2,7 @@
   "name": "randora-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavithravasu08.github.io/randora-react",
+  "homepage": "https://pavithravasu08.github.io/randora-react-random-generator",
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
