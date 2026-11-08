@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randora-react/static/css/main.168dcaac.css",
+    "main.js": "/randora-react/static/js/main.20072291.js",
+    "index.html": "/randora-react/index.html",
+    "main.168dcaac.css.map": "/randora-react/static/css/main.168dcaac.css.map",
+    "main.20072291.js.map": "/randora-react/static/js/main.20072291.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168dcaac.css",
+    "static/js/main.20072291.js"
+  ]
+}
